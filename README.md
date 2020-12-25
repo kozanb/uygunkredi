@@ -6,7 +6,7 @@ Geliştirmeye açık olması amacıyla class based geliştirilmiştir. <br>
 Veriler enuygun'un kredi bölümünden çekilmektedir. DOM parse edilerek veriler alınmıştır. <br>
 
 <h2>Kullanım</h2>
-<p>Örnek kullanım için example.js'e bakabilirsiniz</p><br><br>
+<p>Örnek kullanım için example.js'e bakabilirsiniz</p><br>
 let krediler = new KrediAPI(vade, krediMiktarı, krediTipi);<br>
 
 <h5>Kredi Tipleri</h5><br>

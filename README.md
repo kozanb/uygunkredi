@@ -1,5 +1,5 @@
 # uygunkredi
-<h1>Enuygun Unoffical Kredi API</h1>
+<h1>Enuygun Kredi Unoffical API</h1>
 
 İhtiyaç, Konut, Taşıt olmak üzere 3 farklı tipte kredi sorgulaması yapabilirsiniz. <br>
 Geliştirmeye açık olması amacıyla class based geliştirilmiştir. <br>
@@ -12,7 +12,7 @@ let krediler = new KrediAPI(vade, krediMiktarı, krediTipi);<br>
 <h5>Kredi Tipleri</h5><br>
 0 -> İhtiyaç<br>
 1 -> Taşıt<br>
-2 -> Konut<br>
+2 -> Konut<br><br>
 
 krediler.getCreditList fonksiyonu üzerinden verilere ulaşabilirsiniz.<br>
 
